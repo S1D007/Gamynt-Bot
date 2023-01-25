@@ -23,7 +23,6 @@ client.on("ready", () => {
     connect()
     console.log("Bot Online");
 });
-
 const url = `https://api.giphy.com/v1/gifs/search?api_key=ipi4wViu8qYxxF4jguT7en90TayqPL02&limit=5`;
 client.on("messageCreate", (message) => {
     const msg = message.content.toLowerCase();

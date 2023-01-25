@@ -1,4 +1,4 @@
-const token = "MTA2NzEwMDU5OTU2MjI4NTIwNw.G40Gg0.flBxjWxI6bmOMJel9rJVFXtzkcJCT5zJEuLVUg";
+const token = "MTA2NzEwMDU5OTU2MjI4NTIwNw.G3IYgl.jM_bdKuPI2hjnU01l6rWflrVk6v0hVl3a0XW4M";
 const prompt = require("./openai")
 const axios = require("axios")
 const connect = require("./DB/connection")
